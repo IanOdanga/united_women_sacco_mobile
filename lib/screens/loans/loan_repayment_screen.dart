@@ -22,7 +22,7 @@ class _LoanRepaymentState extends State<LoanRepayment> {
   int amount = 0;
   String? destAcc;
 
-  List<String> loanAccs = ["Development Loan - 160,000", "Mobile Loan - 15,000", "Salary Advance - 30,000", "Emergency Loan - 60,000"];
+  List<String> loanAccs = [""];
 
   @override
   Widget build(BuildContext context) {
